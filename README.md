@@ -8,7 +8,7 @@ The dataset has a training set, which has 150 artificially blurred images, 220 n
 
 It also has an evaluation set.
 
-Note: TL;DR at the end.
+Note: TL;DR and link to the Zip file at the end.
 
 ## Model Description
 
@@ -89,3 +89,5 @@ Files generated:<br>
 `X_test.pkl` and `y_test.pkl` by `load_testdata.py` <br>
 model directory by `CNN.py` <br>
 final_model directory by `train.py` <br>
+
+Link to the zip with all the files: [Click here](https://drive.google.com/file/d/10UbDkVdPQOAXhIBukUkcxCe9I0RvK8jg/view?usp=sharing)
